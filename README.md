@@ -1,7 +1,7 @@
-# Tauri + Vanilla
+# Dino Game
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+A clone of the chrome://dino game made using Tauri (rust backend & vanilla js frontend)
 
-## Recommended IDE Setup
+# FR: Dino Game
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+Un clone du jeu chrome://dino créé avec Tauri (rust backend et vanilla js frontend)
